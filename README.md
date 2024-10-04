@@ -1,3 +1,5 @@
+Hello JS
+
 # Vuex [![Build Status](https://img.shields.io/circleci/project/vuejs/vuex/master.svg)](https://circleci.com/gh/vuejs/vuex) [![npm package](https://img.shields.io/npm/v/vuex.svg)](https://www.npmjs.com/package/vuex)
 
 > Flux-inspired Application Architecture for Vue.js.
